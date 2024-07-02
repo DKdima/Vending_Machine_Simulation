@@ -1,0 +1,2 @@
+Asegurese de que tenga instalada la fuente Digital-7.
+En caso contrario el ejecutable está en éste directorio

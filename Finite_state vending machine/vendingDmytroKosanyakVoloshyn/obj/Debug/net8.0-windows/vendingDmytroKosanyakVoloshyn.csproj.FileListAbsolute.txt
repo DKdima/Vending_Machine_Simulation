@@ -1,0 +1,51 @@
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.exe
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.deps.json
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.runtimeconfig.json
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.dll
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.pdb
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.maquina_vending.resources
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.Properties.Resources.resources
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.csproj.GenerateResource.cache
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.AssemblyInfoInputs.cache
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.AssemblyInfo.cs
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.csproj.CoreCompileInputs.cache
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.dll
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\refint\vendingDmytroKosanyakVoloshyn.dll
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.pdb
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.genruntimeconfig.cache
+C:\Users\tarde\source\repos\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\ref\vendingDmytroKosanyakVoloshyn.dll
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.exe
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.deps.json
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.runtimeconfig.json
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.dll
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.pdb
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.maquina_vending.resources
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.Properties.Resources.resources
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.AssemblyInfo.cs
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.dll
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\refint\vendingDmytroKosanyakVoloshyn.dll
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.pdb
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.genruntimeconfig.cache
+C:\Users\Dima\Desktop\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\ref\vendingDmytroKosanyakVoloshyn.dll
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.exe
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.deps.json
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.runtimeconfig.json
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.dll
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\bin\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.pdb
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.maquina_vending.resources
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.Properties.Resources.resources
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.csproj.GenerateResource.cache
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.GeneratedMSBuildEditorConfig.editorconfig
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.AssemblyInfoInputs.cache
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.AssemblyInfo.cs
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.csproj.CoreCompileInputs.cache
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.dll
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\refint\vendingDmytroKosanyakVoloshyn.dll
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.pdb
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\vendingDmytroKosanyakVoloshyn.genruntimeconfig.cache
+G:\FP 2º Multiplataforma\Desarrollo de Interfaces\vendingDmytroKosanyakVoloshyn\vendingDmytroKosanyakVoloshyn\obj\Debug\net8.0-windows\ref\vendingDmytroKosanyakVoloshyn.dll
